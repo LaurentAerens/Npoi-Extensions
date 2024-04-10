@@ -1,8 +1,9 @@
-# WeihanLi.Npoi
+# Npoi-Extensions By Laurent Aerens
+## based on WeihanLi.Npoi 
 
-[![WeihanLi.Npoi](https://img.shields.io/nuget/v/WeihanLi.Npoi)](https://www.nuget.org/packages/WeihanLi.Npoi/)
+[//]: # [![WeihanLi.Npoi](https://img.shields.io/nuget/v/WeihanLi.Npoi)](https://www.nuget.org/packages/WeihanLi.Npoi/)
 
-[![WeihanLi.Npoi Latest](https://img.shields.io/nuget/vpre/WeihanLi.Npoi)](https://www.nuget.org/packages/WeihanLi.Npoi/absoluteLatest)
+[//]: # [![WeihanLi.Npoi Latest](https://img.shields.io/nuget/vpre/WeihanLi.Npoi)](https://www.nuget.org/packages/WeihanLi.Npoi/absoluteLatest)
 
 ## Build Status
 
