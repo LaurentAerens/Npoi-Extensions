@@ -1,21 +1,11 @@
 # Npoi-Extensions By Laurent Aerens
 ## based on WeihanLi.Npoi 
 
-[//]: # [![WeihanLi.Npoi](https://img.shields.io/nuget/v/WeihanLi.Npoi)](https://www.nuget.org/packages/WeihanLi.Npoi/)
-
-[//]: # [![WeihanLi.Npoi Latest](https://img.shields.io/nuget/vpre/WeihanLi.Npoi)](https://www.nuget.org/packages/WeihanLi.Npoi/absoluteLatest)
-
 ## Build Status
-
-[![Azure Pipeline Build Status](https://weihanli.visualstudio.com/Pipelines/_apis/build/status/WeihanLi.WeihanLi.Npoi?branchName=dev)](https://weihanli.visualstudio.com/Pipelines/_build/latest?definitionId=13&branchName=dev)
-
-[![Github Build Status](https://github.com/WeihanLi/WeihanLi.Npoi/workflows/dotnetcore/badge.svg?branch=dev)](https://github.com/WeihanLi/WeihanLi.Npoi/actions?query=workflow%3Adotnetcore+branch%3Adev)
-
-[![Travis Build Status](https://travis-ci.org/WeihanLi/WeihanLi.Npoi.svg?branch=dev)](https://travis-ci.org/WeihanLi/WeihanLi.Npoi)
-
+TODO [re-add shields once we are there again]
 ## Intro
 
-[NPOI](https://github.com/tonyqus/npoi) extensions based on target framework `netstandard2.0`/`net6.0`.
+[NPOI-Extensions](https://github.com/LaurentAerens/Npoi-Extensions) extensions based on target framework `netstandard2.0`/`net6.0`.
 
 There're a lot of useful extensions for you, core features are as follows:
 
@@ -273,8 +263,3 @@ byte[] ToCsvBytes(this DataTable dt, bool includeHeader)
 ### Acknowledgements
 
 - Thanks for the contributors and users for this project
-- Thanks JetBrains for the open source ReSharper license
-
-### Contact
-
-Contact me: <weihanli@outlook.com>
